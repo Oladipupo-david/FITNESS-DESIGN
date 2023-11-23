@@ -1,0 +1,61 @@
+#header {
+	text-align: center;
+	width: 1000px;
+}
+
+#full-banner {
+	background-color: black;
+	border-radius: 400px;
+	height: 150px;
+	width: 1000px;
+	border-bottom-right-radius: 7000px;
+	justify-content: space-around;
+}
+#main-content  {
+	width: 1000px;
+}
+.card  {
+	height: 200px;
+	width: 400px;
+	margin: 50px 300px;
+	padding: 20px;
+	text-align: center;
+}
+#footer {
+	height: 150px;
+	width: 1000px;
+	background-color: black;
+}
+#footer-top  {
+	height: 130px;
+	width: 1000px;
+	background-color: black;
+}
+
+#footer-bottom  {
+	height: 20px;
+	width: 1000px;
+	background-color: red;
+	text-align: center;
+
+}
+
+.footer-content  {
+	width: 250px;
+	height:130px ;
+	margin-right: 75px;
+	float: left;
+	padding: 2px;
+	text-align: center;
+}
+.footer-content p {
+	color: rgba(255, 255, 255, 0.936);
+	letter-spacing: 2px;
+}
+
+.footer-content li {
+	color: white;
+}
+
+
+
